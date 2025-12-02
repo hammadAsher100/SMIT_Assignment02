@@ -23,15 +23,25 @@ This project aims to:
 
 The following plots were used to explore the data:
 1.Histogram (Sales)
+
 2.KDE Plot (Profit)
+
 3.Count Plot (Segment)
+
 4.Box Plot (Profit by Category)
+
 5.Violin Plot (Sales by Category)
+
 6.Scatter Plot (Sales vs Profit)
+
 7.Line Plot (Sales over Time)
+
 8.Bar Plot (Profit by Region)
+
 9.Pair Plot (Sales, Quantity, Discount, Profit)
+
 10.Correlation Heatmap
+
 11.Joint Plot (Sales vs Profit)
 
 These visualizations help identify trends, patterns, and relationships within the dataset.
