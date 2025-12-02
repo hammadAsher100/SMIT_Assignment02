@@ -22,6 +22,7 @@ This project aims to:
 📊 Visualizations Included
 
 The following plots were used to explore the data:
+
 1.Histogram (Sales)
 
 2.KDE Plot (Profit)
